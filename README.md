@@ -5,11 +5,7 @@ In today's competitive retail landscape, understanding customer behavior is cruc
 Objective:ive: The primary goal is to segment customers into distinct groups based on their purchasing habits and demographic attributes. This segmentation will enable Walmart to:
 •	Identify high-value customer segments.
 •	Personalize marketing campaigns.
-•	Improve customer retention and satisfactioDataset Overview: Overview: The dataset contains 550,068 entries and includes customer demographics, product information, and purchase amounts. Key features include:
-•	User_ID: Unique customer identifier.
-•	Product_ID: Unique product identifier.
-•	Demographic features: Gender, Age, Occupation, City Category, Marital Status.
-•	Transaction details: Product Category and PurchaseApproach:
+
 Approach: 
 1.	Data Preprocessing: Cleaning, encoding categorical variables, and scaling features.
 2.	Clustering with K-Means: Identify distinct customer groups
