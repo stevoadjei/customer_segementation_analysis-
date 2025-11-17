@@ -29,14 +29,15 @@ o	Purchase (int64): Purchase amount.
 4.	Duplicate: None detect in the dataset
    
 General Recommendations:
+
 Personalization:
 Tailor emails, ads, and product recommendations for each cluster.
 
 Omnichannel Strategy:
-Use both online and offline channels to maximize engagement, especially digital platforms for younger clusters.
+Utilise both online and offline channels to maximise engagement, particularly digital platforms for younger audiences.
 
 Dynamic Pricing and Offers:
 Implement cluster-specific dynamic pricing strategies and promotions.
 
 Retention Programs:
-Create loyalty programs for high-spending clusters to maintain engagement and increase lifetime value.
+Create loyalty programs tailored to high-spending clusters to maintain engagement and boost lifetime value.
